@@ -7,7 +7,7 @@ logic:
 '''
 
 
-fistNumber = 0
+firstNumber = 0
 secondNumber = 1
 
 n = int(input("How many numbers have to be displayed: "))
